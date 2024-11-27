@@ -28,7 +28,7 @@ button:hover {
     background-color: #2980b9;
 }
 
-#placas-pendentes, #placas-cadastro {
+#placas-pendentes, #placas-cadastro, #placas-preventiva, #placas-status {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -48,7 +48,7 @@ button:hover {
     background-color: #27ae60;
 }
 
-.manutencao-list {
+.manutencao-list, .preventiva-list {
     margin: 10px;
     padding: 10px;
     background-color: #ecf0f1;
